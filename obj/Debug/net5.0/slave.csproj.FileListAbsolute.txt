@@ -1,0 +1,16 @@
+D:\Dev\cs\slave\bin\Debug\net5.0\slave.exe
+D:\Dev\cs\slave\bin\Debug\net5.0\slave.deps.json
+D:\Dev\cs\slave\bin\Debug\net5.0\slave.runtimeconfig.json
+D:\Dev\cs\slave\bin\Debug\net5.0\slave.runtimeconfig.dev.json
+D:\Dev\cs\slave\bin\Debug\net5.0\slave.dll
+D:\Dev\cs\slave\bin\Debug\net5.0\ref\slave.dll
+D:\Dev\cs\slave\bin\Debug\net5.0\slave.pdb
+D:\Dev\cs\slave\obj\Debug\net5.0\slave.csprojAssemblyReference.cache
+D:\Dev\cs\slave\obj\Debug\net5.0\slave.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\cs\slave\obj\Debug\net5.0\slave.AssemblyInfoInputs.cache
+D:\Dev\cs\slave\obj\Debug\net5.0\slave.AssemblyInfo.cs
+D:\Dev\cs\slave\obj\Debug\net5.0\slave.csproj.CoreCompileInputs.cache
+D:\Dev\cs\slave\obj\Debug\net5.0\slave.dll
+D:\Dev\cs\slave\obj\Debug\net5.0\ref\slave.dll
+D:\Dev\cs\slave\obj\Debug\net5.0\slave.pdb
+D:\Dev\cs\slave\obj\Debug\net5.0\slave.genruntimeconfig.cache
